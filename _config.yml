@@ -1,4 +1,4 @@
-layout: sidebar
+layout: stacked
 style: light
 
 plugins:
@@ -17,7 +17,7 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: pushed
+  sort_by: stars
   # sort_by options:
   #   - pushed
   #   - stars
@@ -26,16 +26,18 @@ projects:
     archived: false
     forks: true
     projects:
-    # - repo-name
+      Opeating-System-Lab-Work
+      LyricSearch
+      speller
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
-  # hackerrank: your_username
-  # instagram: your_username
+  facebook: jayaShankar2102
+  hackerrank: bjayashankar2102
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: jaya-shankar-bandaru-08032a192
+  instagram: jaya_shankar_21_02
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -47,12 +49,13 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: AR
+    web_url: https://www.youtube.com/watch?v=8hZkM4TgwZ4
+    image_url: img/AR.jpeg
 
-  - name: Web design
+  - name: AI
+    web_url: https://www.sas.com/en_in/insights/analytics/what-is-artificial-intelligence.html
+    image_url: img/AI.jpeg
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Back-end Development
+    web_url: https://www.techopedia.com/definition/29568/back-end-developer
