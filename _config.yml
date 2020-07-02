@@ -29,6 +29,7 @@ projects:
       Opeating-System-Lab-Work
       LyricSearch
       speller
+      DjangoImageUpload
 
 social_media:
   # behance: your_username
